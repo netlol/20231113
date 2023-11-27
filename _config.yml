@@ -1,0 +1,6 @@
+title: Hello Jekyll
+description: 描述
+#remote_theme: pages-themes/tactile@v0.2.0
+theme: minima
+plugins:
+  - jekyll-feed
