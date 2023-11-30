@@ -40,7 +40,7 @@
 
 [^1]
 
-![圖1.顯示圖片名稱 ALT](/images/001.png "圖片 Title")
+![圖1.顯示圖片名稱 ALT](/images/001.png)
 
 <img src="https://i.imgur.com/KuDNNw7.png" alt="圖1.顯示圖片名稱" width="220" height="150">
 
