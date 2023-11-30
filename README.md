@@ -42,6 +42,7 @@
 
 ![圖1.顯示圖片名稱 ALT](/images/001.png)
 ![Alt text](/images/001.png)
+![圖1.顯示圖片名稱 ALT](/images/20231113145305.png)
 
 <img src="https://i.imgur.com/KuDNNw7.png" alt="圖1.顯示圖片名稱" width="220" height="150">
 
